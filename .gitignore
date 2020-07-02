@@ -1,0 +1,5 @@
+/.idea
+__pycache__/*
+.replit
+.env
+pyproject.toml
